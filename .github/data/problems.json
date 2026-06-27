@@ -2873,6 +2873,10 @@
         {
             "day": "26",
             "title": "Count Subarrays With Majority Element II"
+        },
+        {
+            "day": "27",
+            "title": "Find the Maximum Number of Elements in Subset"
         }
     ],
     "07- July": [
