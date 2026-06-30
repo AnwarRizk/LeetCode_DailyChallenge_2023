@@ -2885,6 +2885,10 @@
         {
             "day": "29",
             "title": "Number of Strings That Appear as Substrings in Word"
+        },
+        {
+            "day": "30",
+            "title": "Number of Substrings Containing All Three Characters"
         }
     ],
     "07- July": [
