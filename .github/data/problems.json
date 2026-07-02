@@ -3267,6 +3267,10 @@
         {
             "day": "01",
             "title": "Find the Safest Path in a Grid"
+        },
+        {
+            "day": "02",
+            "title": "Find a Safe Walk Through a Grid"
         }
     ],
     "08- August": [
