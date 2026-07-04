@@ -3275,6 +3275,10 @@
         {
             "day": "03",
             "title": "Network Recovery Pathways"
+        },
+        {
+            "day": "04",
+            "title": "Minimum Score of a Path Between Two Cities"
         }
     ],
     "08- August": [
