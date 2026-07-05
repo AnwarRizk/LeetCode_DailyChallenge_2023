@@ -3279,6 +3279,10 @@
         {
             "day": "04",
             "title": "Minimum Score of a Path Between Two Cities"
+        },
+        {
+            "day": "05",
+            "title": "Number of Paths with Max Score"
         }
     ],
     "08- August": [
