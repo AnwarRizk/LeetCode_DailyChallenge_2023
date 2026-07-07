@@ -3287,6 +3287,10 @@
         {
             "day": "06",
             "title": "Remove Covered Intervals"
+        },
+        {
+            "day": "07",
+            "title": "Concatenate Non-Zero Digits and Multiply by Sum I"
         }
     ],
     "08- August": [
