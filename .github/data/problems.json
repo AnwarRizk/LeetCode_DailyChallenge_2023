@@ -3291,6 +3291,10 @@
         {
             "day": "07",
             "title": "Concatenate Non-Zero Digits and Multiply by Sum I"
+        },
+        {
+            "day": "08",
+            "title": "Concatenate Non-Zero Digits and Multiply by Sum II"
         }
     ],
     "08- August": [
