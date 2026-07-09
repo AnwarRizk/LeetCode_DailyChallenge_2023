@@ -3295,6 +3295,10 @@
         {
             "day": "08",
             "title": "Concatenate Non-Zero Digits and Multiply by Sum II"
+        },
+        {
+            "day": "09",
+            "title": "Path Existence Queries in a Graph I"
         }
     ],
     "08- August": [
