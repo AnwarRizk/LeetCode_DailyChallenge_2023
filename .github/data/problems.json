@@ -3303,6 +3303,10 @@
         {
             "day": "10",
             "title": "Path Existence Queries in a Graph II"
+        },
+        {
+            "day": "11",
+            "title": "Count the Number of Complete Components"
         }
     ],
     "08- August": [
