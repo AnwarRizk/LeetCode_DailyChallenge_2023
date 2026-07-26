@@ -3363,6 +3363,10 @@
         {
             "day": "25",
             "title": "Maximum Product of Two Digits"
+        },
+        {
+            "day": "26",
+            "title": "Maximum Product of Three Numbers"
         }
     ],
     "08- August": [
