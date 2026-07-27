@@ -3367,6 +3367,10 @@
         {
             "day": "26",
             "title": "Maximum Product of Three Numbers"
+        },
+        {
+            "day": "27",
+            "title": "Maximum Product of Two Elements in an Array"
         }
     ],
     "08- August": [
