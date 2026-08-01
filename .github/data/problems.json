@@ -3761,6 +3761,10 @@
         {
             "day": "31",
             "title": "Sudoku Solver"
+        },
+        {
+            "day": "01",
+            "title": "Predict the Winner"
         }
     ],
     "09- September": [
