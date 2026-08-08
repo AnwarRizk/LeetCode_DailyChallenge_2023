@@ -3789,6 +3789,10 @@
         {
             "day": "07",
             "title": "Smallest Divisible Digit Product II"
+        },
+        {
+            "day": "08",
+            "title": "Find the Lexicographically Smallest Valid Sequence"
         }
     ],
     "09- September": [
