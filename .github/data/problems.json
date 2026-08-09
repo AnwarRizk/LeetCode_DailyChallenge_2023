@@ -3793,6 +3793,10 @@
         {
             "day": "08",
             "title": "Find the Lexicographically Smallest Valid Sequence"
+        },
+        {
+            "day": "09",
+            "title": "Stone Game II"
         }
     ],
     "09- September": [
