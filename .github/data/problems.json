@@ -3805,6 +3805,10 @@
         {
             "day": "11",
             "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum"
+        },
+        {
+            "day": "12",
+            "title": "Length of Longest Subarray With at Most K Frequency"
         }
     ],
     "09- September": [
