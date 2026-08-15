@@ -3817,6 +3817,10 @@
         {
             "day": "14",
             "title": "Maximum Length Substring With Two Occurrences"
+        },
+        {
+            "day": "15",
+            "title": "Longest Subsequence With Non-Zero Bitwise XOR"
         }
     ],
     "09- September": [
