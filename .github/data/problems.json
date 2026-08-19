@@ -3833,6 +3833,10 @@
         {
             "day": "18",
             "title": "Find the Largest Almost Missing Integer"
+        },
+        {
+            "day": "19",
+            "title": "Cinema Seat Allocation"
         }
     ],
     "09- September": [
