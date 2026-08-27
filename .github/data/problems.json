@@ -3865,6 +3865,10 @@
         {
             "day": "26",
             "title": "Shortest and Lexicographically Smallest Beautiful String"
+        },
+        {
+            "day": "27",
+            "title": "Lexicographically Smallest Permutation Greater Than Target"
         }
     ],
     "09- September": [
