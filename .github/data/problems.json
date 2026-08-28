@@ -3869,6 +3869,10 @@
         {
             "day": "27",
             "title": "Lexicographically Smallest Permutation Greater Than Target"
+        },
+        {
+            "day": "28",
+            "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target"
         }
     ],
     "09- September": [
