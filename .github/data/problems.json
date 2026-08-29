@@ -3873,6 +3873,10 @@
         {
             "day": "28",
             "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target"
+        },
+        {
+            "day": "29",
+            "title": "Make Lexicographically Smallest Array by Swapping Elements"
         }
     ],
     "09- September": [
