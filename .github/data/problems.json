@@ -3877,6 +3877,10 @@
         {
             "day": "29",
             "title": "Make Lexicographically Smallest Array by Swapping Elements"
+        },
+        {
+            "day": "30",
+            "title": "Removing Minimum and Maximum From Array"
         }
     ],
     "09- September": [
