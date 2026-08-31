@@ -3881,6 +3881,10 @@
         {
             "day": "30",
             "title": "Removing Minimum and Maximum From Array"
+        },
+        {
+            "day": "31",
+            "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points"
         }
     ],
     "09- September": [
