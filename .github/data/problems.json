@@ -4271,6 +4271,10 @@
         {
             "day": "06",
             "title": "Distinct Subsequences"
+        },
+        {
+            "day": "07",
+            "title": "Distinct Subsequences II"
         }
     ],
     "10- October": [
