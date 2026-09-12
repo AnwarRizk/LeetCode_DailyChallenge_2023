@@ -4291,6 +4291,10 @@
         {
             "day": "11",
             "title": "Unique 3-Digit Even Numbers"
+        },
+        {
+            "day": "12",
+            "title": "Maximum Score of Non-overlapping Intervals"
         }
     ],
     "10- October": [
