@@ -4307,6 +4307,10 @@
         {
             "day": "15",
             "title": "Maximum Number of Non-overlapping Palindrome Substrings"
+        },
+        {
+            "day": "16",
+            "title": "Number of Sets of K Non-Overlapping Line Segments"
         }
     ],
     "10- October": [
