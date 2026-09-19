@@ -4319,6 +4319,10 @@
         {
             "day": "18",
             "title": "Maximum Number of Non-Overlapping Substrings"
+        },
+        {
+            "day": "19",
+            "title": "Circle and Rectangle Overlapping"
         }
     ],
     "10- October": [
