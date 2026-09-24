@@ -4339,6 +4339,10 @@
         {
             "day": "23",
             "title": "Minimum Operations to Reduce X to Zero"
+        },
+        {
+            "day": "24",
+            "title": "Smallest Index With Digit Sum Equal to Index"
         }
     ],
     "10- October": [
