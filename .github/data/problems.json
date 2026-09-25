@@ -4343,6 +4343,10 @@
         {
             "day": "24",
             "title": "Smallest Index With Digit Sum Equal to Index"
+        },
+        {
+            "day": "25",
+            "title": "Brace Expansion II"
         }
     ],
     "10- October": [
