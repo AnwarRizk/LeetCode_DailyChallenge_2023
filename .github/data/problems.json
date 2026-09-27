@@ -4351,6 +4351,10 @@
         {
             "day": "26",
             "title": "Evaluate the Bracket Pairs of a String"
+        },
+        {
+            "day": "27",
+            "title": "Reverse Substrings Between Each Pair of Parentheses"
         }
     ],
     "10- October": [
