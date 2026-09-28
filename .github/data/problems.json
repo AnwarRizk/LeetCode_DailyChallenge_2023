@@ -4355,6 +4355,10 @@
         {
             "day": "27",
             "title": "Reverse Substrings Between Each Pair of Parentheses"
+        },
+        {
+            "day": "28",
+            "title": "Maximum Nesting Depth of the Parentheses"
         }
     ],
     "10- October": [
