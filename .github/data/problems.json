@@ -4363,6 +4363,10 @@
         {
             "day": "29",
             "title": " Check if There Is a Valid Parentheses String Path"
+        },
+        {
+            "day": "30",
+            "title": "Maximum Nesting Depth of Two Valid Parentheses Strings"
         }
     ],
     "10- October": [
