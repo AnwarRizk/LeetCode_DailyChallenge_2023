@@ -4745,6 +4745,10 @@
         {
             "day": "01",
             "title": "Valid Parentheses"
+        },
+        {
+            "day": "02",
+            "title": "Generate Parentheses"
         }
     ],
     "11- November": [
